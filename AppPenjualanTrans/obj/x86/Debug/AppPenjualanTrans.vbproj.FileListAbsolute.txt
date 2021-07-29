@@ -1,0 +1,148 @@
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\Interop.Crystal.dll
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AxInterop.Crystal.dll
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\Interop.Crystal.dll
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AxInterop.Crystal.dll
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+C:\Users\user\Documents\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+E:\Visual Studio\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FNotaJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FNotaJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+C:\Users\user\Downloads\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FNotaJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix Search by Didan) (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe.config
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.ResolveComReference.cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\dbPengelolaan.mdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.exe
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.pdb
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\bin\Debug\AppPenjualanTrans.xml
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbprojResolveAssemblyReference.cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDaftarPelanggan.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FDataJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FNotaJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLapDataMaster.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormLogin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterAdmin.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterBarang.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMasterPelanggan.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormMenuUtama.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormTransJual.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.Resources.resources
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\AppPenjualanTrans(Fix SearcH)  (1)\AppPenjualanTrans\AppPenjualanTrans\obj\x86\Debug\AppPenjualanTrans.FormBackup.resources

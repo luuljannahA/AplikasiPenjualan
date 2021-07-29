@@ -1,0 +1,172 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppPenjualanTrans
+</name>
+</assembly>
+<members>
+<member name="P:AppPenjualanTrans.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.administrator_female1600">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.administrator_female1600__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.Kucing">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.OIP__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.OIP__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.rocket">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:AppPenjualanTrans.My.Resources.Resources.ss">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:AppPenjualanTrans.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_adminDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_barangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_detailjualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_jualDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_pelangganDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_adminRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_barangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_detailjualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_jualRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_pelangganRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_adminRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_barangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_detailjualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_jualRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet.tbl_pelangganRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.tbl_adminTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.tbl_barangTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.tbl_detailjualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.tbl_jualTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.tbl_pelangganTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AppPenjualanTrans.dbPengelolaanDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AppPenjualanTrans.dbPengelolaanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AppPenjualanTrans.dbPengelolaanDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.UpdateAll(AppPenjualanTrans.dbPengelolaanDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AppPenjualanTrans.dbPengelolaanDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
