@@ -43,11 +43,11 @@ Partial Class FormBackup
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(396, 32)
+        Me.Button1.Location = New System.Drawing.Point(470, 32)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(50, 26)
         Me.Button1.TabIndex = 4
-        Me.Button1.Text = "Button1"
+        Me.Button1.Text = ". . ."
         Me.Button1.UseVisualStyleBackColor = True
         '
         'GroupBox1
@@ -59,7 +59,7 @@ Partial Class FormBackup
         Me.GroupBox1.Controls.Add(Me.TxtDatabase)
         Me.GroupBox1.Location = New System.Drawing.Point(39, 57)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(479, 129)
+        Me.GroupBox1.Size = New System.Drawing.Size(554, 129)
         Me.GroupBox1.TabIndex = 9
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Original File"
@@ -86,14 +86,14 @@ Partial Class FormBackup
         '
         Me.TxtLocation.Location = New System.Drawing.Point(156, 76)
         Me.TxtLocation.Name = "TxtLocation"
-        Me.TxtLocation.Size = New System.Drawing.Size(290, 26)
+        Me.TxtLocation.Size = New System.Drawing.Size(364, 26)
         Me.TxtLocation.TabIndex = 8
         '
         'TxtDatabase
         '
         Me.TxtDatabase.Location = New System.Drawing.Point(156, 32)
         Me.TxtDatabase.Name = "TxtDatabase"
-        Me.TxtDatabase.Size = New System.Drawing.Size(234, 26)
+        Me.TxtDatabase.Size = New System.Drawing.Size(308, 26)
         Me.TxtDatabase.TabIndex = 7
         '
         'GroupBox2
@@ -105,18 +105,18 @@ Partial Class FormBackup
         Me.GroupBox2.Controls.Add(Me.TxtBackup)
         Me.GroupBox2.Location = New System.Drawing.Point(39, 212)
         Me.GroupBox2.Name = "GroupBox2"
-        Me.GroupBox2.Size = New System.Drawing.Size(479, 125)
+        Me.GroupBox2.Size = New System.Drawing.Size(554, 125)
         Me.GroupBox2.TabIndex = 10
         Me.GroupBox2.TabStop = False
         Me.GroupBox2.Text = "Backup Destination"
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(396, 39)
+        Me.Button2.Location = New System.Drawing.Point(470, 39)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(50, 26)
         Me.Button2.TabIndex = 13
-        Me.Button2.Text = "Button2"
+        Me.Button2.Text = ". . ."
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Label4
@@ -141,23 +141,23 @@ Partial Class FormBackup
         '
         Me.TxtLokasiBackup.Location = New System.Drawing.Point(156, 81)
         Me.TxtLokasiBackup.Name = "TxtLokasiBackup"
-        Me.TxtLokasiBackup.Size = New System.Drawing.Size(290, 26)
+        Me.TxtLokasiBackup.Size = New System.Drawing.Size(364, 26)
         Me.TxtLokasiBackup.TabIndex = 10
         '
         'TxtBackup
         '
         Me.TxtBackup.Location = New System.Drawing.Point(156, 39)
         Me.TxtBackup.Name = "TxtBackup"
-        Me.TxtBackup.Size = New System.Drawing.Size(221, 26)
+        Me.TxtBackup.Size = New System.Drawing.Size(308, 26)
         Me.TxtBackup.TabIndex = 9
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(366, 377)
+        Me.Button3.Location = New System.Drawing.Point(491, 367)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(87, 35)
         Me.Button3.TabIndex = 14
-        Me.Button3.Text = "Button3"
+        Me.Button3.Text = "Backup"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'OpenFileDialog1
@@ -168,7 +168,7 @@ Partial Class FormBackup
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(530, 445)
+        Me.ClientSize = New System.Drawing.Size(618, 445)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.GroupBox2)
         Me.Controls.Add(Me.GroupBox1)
